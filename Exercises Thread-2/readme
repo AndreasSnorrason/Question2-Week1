@@ -1,2 +1,7 @@
 Exercise 1:
 
+Explain the results:
+
+Programmet kører både sekventiel og paralelt. Grunden til at der er stor forskel tidsmæssigt,
+er at den paralelle arbejder randomly på trådene, mens den sekventielle arbejder med en tråd af gangen.
+
